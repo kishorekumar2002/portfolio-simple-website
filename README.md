@@ -24,6 +24,4 @@ Some features I’d like to add in the future include:
 
 Feel free to explore, and thank you for checking out my portfolio!
 
---- 
-
-This description highlights the purpose and features of your portfolio, with a touch of personalization. Let me know if you'd like help tailoring any specific details!
+--- personalization. Let me know if you'd like help tailoring any specific details!
