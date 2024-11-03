@@ -24,4 +24,4 @@ Some features I’d like to add in the future include:
 
 Feel free to explore, and thank you for checking out my portfolio!
 
---- personalization. Let me know if you'd like help tailoring any specific details!
+
